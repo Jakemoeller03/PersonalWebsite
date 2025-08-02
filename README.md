@@ -1,7 +1,27 @@
-Link to Website here:
-https://ec2-3-129-9-4.us-east-2.compute.amazonaws.com/hw15/index.php
+# Contact Form Website
 
-This is a website I made in a class, and I grew upon it for fun. It utlizes Bootstrap capabilities to style and jQuery for database information management. 
-Info may be entered into the contact page. That data is checked, and then uploaded to a php myAdmin database where it may be re-accessed. You may re-access 
-entered data at this link: https://ec2-3-129-9-4.us-east-2.compute.amazonaws.com/hw15/results.php This page dynamically updates and adds newly entered data 
-to display. By using jQuery, this page updates every 500 ms to constantly show live info. Thanks for checking it out!
+A responsive website built with HTML, CSS, and Bootstrap featuring a dynamic contact form with database integration.
+
+## Features
+
+- **Contact Form**: Collects and validates user input
+- **Database Storage**: Data stored in phpMyAdmin database
+- **Live Updates**: Results page refreshes every 500ms using jQuery
+- **Responsive Design**: Bootstrap styling for mobile-friendly layout
+
+## Tech Stack
+
+- HTML/CSS
+- Bootstrap
+- jQuery
+- PHP
+- phpMyAdmin Database
+- AWS Hosting
+
+## Status
+
+**Note**: This site is no longer actively hosted and cannot be tested locally.
+
+## Background
+
+Originally created as a class project, then expanded with additional features for learning purposes. The site demonstrates form handling, database integration, and real-time data display.
