@@ -1,4 +1,4 @@
-# Contact Form Website
+# Personal Website
 
 A responsive website built with HTML, CSS, and Bootstrap featuring a dynamic contact form with database integration.
 
